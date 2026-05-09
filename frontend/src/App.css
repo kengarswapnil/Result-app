@@ -1,0 +1,16 @@
+.customText{
+  font-size: 1.4rem !important;
+}
+
+body {
+  font-family: 'Saira', sans-serif !important;
+}
+
+.customSize{
+  height: 300px;
+  width: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
